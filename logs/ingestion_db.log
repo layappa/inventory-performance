@@ -1,5 +1,10 @@
-2025-12-17 10:33:50,954 - INFO - engine created
-2025-12-17 10:33:56,309 - INFO - ingesting begin_inventory.csv in db
-2025-12-17 10:34:01,834 - INFO - ingesting end_inventory.csv in db
-2025-12-17 10:37:18,598 - INFO - ingesting purchases.csv in db
-2025-12-17 10:37:19,900 - INFO - ingesting purchase_prices.csv in db
+
+2025-12-17 21:40:03,103 - INFO - engine created
+2025-12-17 21:40:14,586 - INFO - ingesting begin_inventory.csv in db
+2025-12-17 21:40:30,194 - INFO - ingesting end_inventory.csv in db
+2025-12-17 21:46:17,906 - INFO - ingesting purchases.csv in db
+2025-12-17 21:46:19,883 - INFO - ingesting purchase_prices.csv in db
+2025-12-17 22:16:25,667 - INFO - ingesting sales.csv in db
+2025-12-17 22:16:29,767 - INFO - ingesting vendor_invoice.csv in db
+2025-12-17 22:16:29,767 - INFO - ------------ingestion complete--------------
+2025-12-17 22:16:29,768 - INFO - total_time taken : 36.44359825849533 minustes
