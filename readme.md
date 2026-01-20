@@ -1,5 +1,3 @@
-Got it 👍
-Below is a **complete but still short & meaningful README** — **no over-explanation**, clean and professional.
 
 ---
 
